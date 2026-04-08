@@ -2,7 +2,7 @@
 
 # 📊 Fundamentos de Probabilidade e Estatística para Ciência de Dados — 4ª Edição (USP)
 
-**Status:** Em andamento
+**Status:** 🚧 Em andamento
 
 Este repositório reúne resumos teóricos, anotações de estudo e códigos computacionais desenvolvidos durante as aulas da **4ª Edição** do curso de extensão _Fundamentos de Probabilidade e Estatística para Ciência de Dados_, promovido pelo ICMC-USP (Universidade de São Paulo).
 
